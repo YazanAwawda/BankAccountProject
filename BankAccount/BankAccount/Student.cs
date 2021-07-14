@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BankAccount
 {
-    class Student
+    class Student : person
     {
         private cources[] courseTheStudentsIsIN;
         private rooms[] roomsTheStudentisIN;
